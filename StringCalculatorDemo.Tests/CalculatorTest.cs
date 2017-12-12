@@ -7,6 +7,7 @@ namespace StringCalculatorDemo.Tests
     public class CalculatorTest
     {
         Calculator calc = new Calculator();
+        //:D
 
         [TestMethod]
         public void EmptyString()
